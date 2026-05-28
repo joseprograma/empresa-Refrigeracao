@@ -1,0 +1,10 @@
+<svg width="800" height="520" viewBox="0 0 800 520" fill="none" xmlns="http://www.w3.org/2000/svg">
+  <rect width="800" height="520" rx="36" fill="#081B29"/>
+  <rect x="26" y="86" width="748" height="184" rx="28" fill="#F9FCFE"/>
+  <rect x="58" y="124" width="684" height="26" rx="13" fill="#D7E6EE"/>
+  <rect x="58" y="170" width="482" height="18" rx="9" fill="#E4EEF3"/>
+  <rect x="58" y="202" width="588" height="18" rx="9" fill="#E4EEF3"/>
+  <path d="M106 330C179 367 279 390 400 390C521 390 621 367 694 330" stroke="#B5EFFF" stroke-width="18" stroke-linecap="round"/>
+  <path d="M82 352C171 412 278 444 400 444C522 444 629 412 718 352" stroke="#58C9F0" stroke-opacity="0.55" stroke-width="10" stroke-linecap="round"/>
+  <text x="400" y="468" text-anchor="middle" fill="#F1F8FC" font-family="Sora, Arial, sans-serif" font-size="54" font-weight="800">Samsung</text>
+</svg>

@@ -1,4 +1,4 @@
-const instagramUrl = "https://www.instagram.com/panda.refrigeracao/";
+const instagramUrl = "#";
 
 const services = [
   {
