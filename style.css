@@ -948,6 +948,12 @@ select {
   color: #8da7b8;
 }
 
+.footer p,
+.footer a {
+  max-width: 100%;
+  overflow-wrap: anywhere;
+}
+
 .footer p + p {
   margin-top: 8px;
 }
@@ -1011,12 +1017,17 @@ select {
   display: inline-flex;
   align-items: center;
   justify-content: center;
+  gap: 10px;
   min-height: 54px;
+  max-width: calc(100vw - 36px);
   padding: 0 22px;
   border-radius: 999px;
   background: linear-gradient(135deg, #83e8ff, #d5fbff);
   color: #042133;
   font-weight: 800;
+  line-height: 1.2;
+  text-align: center;
+  white-space: normal;
   box-shadow: 0 14px 30px rgba(38, 195, 242, 0.28);
   transition: transform 0.28s ease, box-shadow 0.28s ease;
 }
@@ -1218,6 +1229,7 @@ select {
     left: 16px;
     right: 16px;
     bottom: 16px;
+    padding: 12px 18px;
   }
 }
 
@@ -1277,5 +1289,6 @@ select {
   .floating-cta {
     min-height: 50px;
     padding: 0 18px;
+    font-size: 0.96rem;
   }
 }
